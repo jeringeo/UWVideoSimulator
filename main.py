@@ -27,7 +27,7 @@ def getSessionID():
 
 
 inputLoc = 'Synthetic'
-outputDir = '../Videos'
+outputDir = 'Videos'
 
 
 def createSession():
